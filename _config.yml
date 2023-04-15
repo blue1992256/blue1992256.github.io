@@ -18,12 +18,12 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 코짜 # the main title
+title: 일코짜 # the main title
 
 tagline: 배워서 남주자 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  코짜님의 블로그입니다
+  일코짜님의 블로그입니다
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://blue1992256.github.io"
@@ -37,7 +37,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: 코짜
+  name: 일코짜
   email: blue1992256@naver.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
